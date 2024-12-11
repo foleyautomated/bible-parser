@@ -88,5 +88,5 @@ const abbreviations = JSON.parse(fs.readFileSync('./data/abbreviations.json', 'u
 const genres = JSON.parse(fs.readFileSync('./data/genres.json', 'utf8'));
 const biblejson = parseBibleText(bibleText);
 
-fs.writeFileSync('bibleMetadata.json', JSON.stringify(biblejson, null, 2), 'utf8');
+fs.writeFileSync('bible-metadata.json', JSON.stringify(biblejson, null, 2), 'utf8');
 
