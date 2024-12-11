@@ -1,16 +1,12 @@
 {
-  "name": "bible-parser",
-  "version": "1.0.0",
-  "main": "index.js",
-  "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
-  },
-  "keywords": [],
-  "author": "",
-  "license": "ISC",
-  "description": "",
-  "devDependencies": {
-    "@types/node": "^22.10.1",
-    "typescript": "^5.7.2"
-  }
+    "name": "bible-parser",
+    "version": "1.0.0",
+    "description": "A parser for Bible texts",
+    "main": "index.js",
+    "scripts": {
+        "start": "node index.js",
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "author": "Your Name",
+    "license": "ISC"
 }

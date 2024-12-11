@@ -3,109 +3,165 @@
     "name": "Genesis",
     "testament": "OT",
     "abbreviation": "Gen",
-    "chapters": 50
+    "chapters": 50,
+    "genres": [
+      "Law",
+      "History"
+    ]
   },
   {
     "name": "Exodus",
     "testament": "OT",
     "abbreviation": "Exod",
-    "chapters": 40
+    "chapters": 40,
+    "genres": [
+      "Law",
+      "History"
+    ]
   },
   {
     "name": "Leviticus",
     "testament": "OT",
     "abbreviation": "Lev",
-    "chapters": 27
+    "chapters": 27,
+    "genres": [
+      "Law"
+    ]
   },
   {
     "name": "Numbers",
     "testament": "OT",
     "abbreviation": "Num",
-    "chapters": 36
+    "chapters": 36,
+    "genres": [
+      "Law"
+    ]
   },
   {
     "name": "Deuteronomy",
     "testament": "OT",
     "abbreviation": "Deut",
-    "chapters": 34
+    "chapters": 34,
+    "genres": [
+      "Law"
+    ]
   },
   {
     "name": "Joshua",
     "testament": "OT",
     "abbreviation": "Josh",
-    "chapters": 24
+    "chapters": 24,
+    "genres": [
+      "History"
+    ]
   },
   {
     "name": "Judges",
     "testament": "OT",
     "abbreviation": "Judg",
-    "chapters": 21
+    "chapters": 21,
+    "genres": [
+      "History"
+    ]
   },
   {
     "name": "Ruth",
     "testament": "OT",
     "abbreviation": "Ruth",
-    "chapters": 4
+    "chapters": 4,
+    "genres": [
+      "History"
+    ]
   },
   {
     "name": "1 Samuel",
     "testament": "OT",
     "abbreviation": "1 Sam",
-    "chapters": 31
+    "chapters": 31,
+    "genres": [
+      "History"
+    ]
   },
   {
     "name": "2 Samuel",
     "testament": "OT",
     "abbreviation": "2 Sam",
-    "chapters": 24
+    "chapters": 24,
+    "genres": [
+      "History"
+    ]
   },
   {
     "name": "1 Kings",
     "testament": "OT",
     "abbreviation": "1 Kgs",
-    "chapters": 22
+    "chapters": 22,
+    "genres": [
+      "History"
+    ]
   },
   {
     "name": "2 Kings",
     "testament": "OT",
     "abbreviation": "2 Kgs",
-    "chapters": 25
+    "chapters": 25,
+    "genres": [
+      "History"
+    ]
   },
   {
     "name": "1 Chronicles",
     "testament": "OT",
     "abbreviation": "1 Chr",
-    "chapters": 29
+    "chapters": 29,
+    "genres": [
+      "History"
+    ]
   },
   {
     "name": "2 Chronicles",
     "testament": "OT",
     "abbreviation": "2 Chr",
-    "chapters": 36
+    "chapters": 36,
+    "genres": [
+      "History"
+    ]
   },
   {
     "name": "Ezra",
     "testament": "OT",
     "abbreviation": "Ezra",
-    "chapters": 10
+    "chapters": 10,
+    "genres": [
+      "History"
+    ]
   },
   {
     "name": "Nehemiah",
     "testament": "OT",
     "abbreviation": "Neh",
-    "chapters": 13
+    "chapters": 13,
+    "genres": [
+      "History"
+    ]
   },
   {
     "name": "Esther",
     "testament": "OT",
     "abbreviation": "Esth",
-    "chapters": 10
+    "chapters": 10,
+    "genres": [
+      "History"
+    ]
   },
   {
     "name": "Job",
     "testament": "OT",
     "abbreviation": "Job",
-    "chapters": 42
+    "chapters": 42,
+    "genres": [
+      "Wisdom"
+    ]
   },
   {
     "name": "Psalm",
@@ -117,13 +173,21 @@
     "name": "Proverbs",
     "testament": "OT",
     "abbreviation": "Prov",
-    "chapters": 31
+    "chapters": 31,
+    "genres": [
+      "Wisdom",
+      "Poetry"
+    ]
   },
   {
     "name": "Ecclesiastes",
     "testament": "OT",
     "abbreviation": "Eccl",
-    "chapters": 12
+    "chapters": 12,
+    "genres": [
+      "Wisdom",
+      "Poetry"
+    ]
   },
   {
     "name": "Song",
@@ -134,234 +198,351 @@
     "name": "Isaiah",
     "testament": "OT",
     "abbreviation": "Isa",
-    "chapters": 66
+    "chapters": 66,
+    "genres": [
+      "Prophecy"
+    ]
   },
   {
     "name": "Jeremiah",
     "testament": "OT",
     "abbreviation": "Jer",
-    "chapters": 52
+    "chapters": 52,
+    "genres": [
+      "Prophecy"
+    ]
   },
   {
     "name": "Lamentations",
     "testament": "OT",
     "abbreviation": "Lam",
-    "chapters": 5
+    "chapters": 5,
+    "genres": [
+      "Prophecy"
+    ]
   },
   {
     "name": "Ezekiel",
     "testament": "OT",
     "abbreviation": "Ezek",
-    "chapters": 48
+    "chapters": 48,
+    "genres": [
+      "Prophecy"
+    ]
   },
   {
     "name": "Daniel",
     "testament": "OT",
     "abbreviation": "Dan",
-    "chapters": 12
+    "chapters": 12,
+    "genres": [
+      "Prophecy"
+    ]
   },
   {
     "name": "Hosea",
     "testament": "OT",
     "abbreviation": "Hos",
-    "chapters": 14
+    "chapters": 14,
+    "genres": [
+      "Prophecy"
+    ]
   },
   {
     "name": "Joel",
     "testament": "OT",
     "abbreviation": "Joel",
-    "chapters": 3
+    "chapters": 3,
+    "genres": [
+      "Prophecy"
+    ]
   },
   {
     "name": "Amos",
     "testament": "OT",
     "abbreviation": "Amos",
-    "chapters": 9
+    "chapters": 9,
+    "genres": [
+      "Prophecy"
+    ]
   },
   {
     "name": "Obadiah",
     "testament": "OT",
     "abbreviation": "Obad",
-    "chapters": 4
+    "chapters": 4,
+    "genres": [
+      "Prophecy"
+    ]
   },
   {
     "name": "Micah",
     "testament": "OT",
     "abbreviation": "Mic",
-    "chapters": 7
+    "chapters": 7,
+    "genres": [
+      "Prophecy"
+    ]
   },
   {
     "name": "Nahum",
     "testament": "OT",
     "abbreviation": "Nah",
-    "chapters": 3
+    "chapters": 3,
+    "genres": [
+      "Prophecy"
+    ]
   },
   {
     "name": "Habakkuk",
     "testament": "OT",
     "abbreviation": "Hab",
-    "chapters": 3
+    "chapters": 3,
+    "genres": [
+      "Prophecy"
+    ]
   },
   {
     "name": "Zephaniah",
     "testament": "OT",
     "abbreviation": "Zeph",
-    "chapters": 3
+    "chapters": 3,
+    "genres": [
+      "Prophecy"
+    ]
   },
   {
     "name": "Haggai",
     "testament": "OT",
     "abbreviation": "Hag",
-    "chapters": 2
+    "chapters": 2,
+    "genres": [
+      "Prophecy"
+    ]
   },
   {
     "name": "Zechariah",
     "testament": "OT",
     "abbreviation": "Zech",
-    "chapters": 14
+    "chapters": 14,
+    "genres": [
+      "Prophecy"
+    ]
   },
   {
     "name": "Malachi",
     "testament": "NT",
     "abbreviation": "Mal",
-    "chapters": 4
+    "chapters": 4,
+    "genres": [
+      "Prophecy"
+    ]
   },
   {
     "name": "Matthew",
     "testament": "NT",
     "abbreviation": "Matt",
-    "chapters": 28
+    "chapters": 28,
+    "genres": [
+      "Gospel"
+    ]
   },
   {
     "name": "Mark",
     "testament": "NT",
     "abbreviation": "Mark",
-    "chapters": 16
+    "chapters": 16,
+    "genres": [
+      "Gospel"
+    ]
   },
   {
     "name": "Luke",
     "testament": "NT",
     "abbreviation": "Luke",
-    "chapters": 24
+    "chapters": 24,
+    "genres": [
+      "Gospel"
+    ]
   },
   {
     "name": "John",
     "testament": "NT",
     "abbreviation": "John",
-    "chapters": 21
+    "chapters": 21,
+    "genres": [
+      "Gospel"
+    ]
   },
   {
     "name": "Acts",
     "testament": "NT",
     "abbreviation": "Acts",
-    "chapters": 28
+    "chapters": 28,
+    "genres": [
+      "History"
+    ]
   },
   {
     "name": "Romans",
     "testament": "NT",
     "abbreviation": "Rom",
-    "chapters": 16
+    "chapters": 16,
+    "genres": [
+      "Epistle"
+    ]
   },
   {
     "name": "1 Corinthians",
     "testament": "NT",
     "abbreviation": "1 Cor",
-    "chapters": 16
+    "chapters": 16,
+    "genres": [
+      "Epistle"
+    ]
   },
   {
     "name": "2 Corinthians",
     "testament": "NT",
     "abbreviation": "2 Cor",
-    "chapters": 13
+    "chapters": 13,
+    "genres": [
+      "Epistle"
+    ]
   },
   {
     "name": "Galatians",
     "testament": "NT",
     "abbreviation": "Gal",
-    "chapters": 6
+    "chapters": 6,
+    "genres": [
+      "Epistle"
+    ]
   },
   {
     "name": "Ephesians",
     "testament": "NT",
     "abbreviation": "Eph",
-    "chapters": 6
+    "chapters": 6,
+    "genres": [
+      "Epistle"
+    ]
   },
   {
     "name": "Philippians",
     "testament": "NT",
     "abbreviation": "Phil",
-    "chapters": 4
+    "chapters": 4,
+    "genres": [
+      "Epistle"
+    ]
   },
   {
     "name": "Colossians",
     "testament": "NT",
     "abbreviation": "Col",
-    "chapters": 4
+    "chapters": 4,
+    "genres": [
+      "Epistle"
+    ]
   },
   {
     "name": "1 Thessalonians",
     "testament": "NT",
     "abbreviation": "1 Thes",
-    "chapters": 5
+    "chapters": 5,
+    "genres": [
+      "Epistle"
+    ]
   },
   {
     "name": "2 Thessalonians",
     "testament": "NT",
     "abbreviation": "2 Thes",
-    "chapters": 3
+    "chapters": 3,
+    "genres": [
+      "Epistle"
+    ]
   },
   {
     "name": "1 Timothy",
     "testament": "NT",
     "abbreviation": "1 Tim",
-    "chapters": 6
+    "chapters": 6,
+    "genres": [
+      "Pastoral Epistle"
+    ]
   },
   {
     "name": "2 Timothy",
     "testament": "NT",
     "abbreviation": "2 Tim",
-    "chapters": 4
+    "chapters": 4,
+    "genres": [
+      "Pastoral Epistle"
+    ]
   },
   {
     "name": "Titus",
     "testament": "NT",
     "abbreviation": "Titus",
-    "chapters": 3
+    "chapters": 3,
+    "genres": [
+      "Pastoral Epistle"
+    ]
   },
   {
     "name": "Philemon",
     "testament": "NT",
     "abbreviation": "Phlm",
-    "chapters": 13
+    "chapters": 13,
+    "genres": [
+      "Pastoral Epistle"
+    ]
   },
   {
     "name": "James",
     "testament": "NT",
     "abbreviation": "Jas",
-    "chapters": 5
+    "chapters": 5,
+    "genres": [
+      "General Epistle"
+    ]
   },
   {
     "name": "1 Peter",
     "testament": "NT",
     "abbreviation": "1 Pet",
-    "chapters": 5
+    "chapters": 5,
+    "genres": [
+      "General Epistle"
+    ]
   },
   {
     "name": "2 Peter",
     "testament": "NT",
     "abbreviation": "2 Pet",
-    "chapters": 3
+    "chapters": 3,
+    "genres": [
+      "General Epistle"
+    ]
   },
   {
     "name": "1 John",
     "testament": "NT",
     "abbreviation": "1 John",
-    "chapters": 5
+    "chapters": 5,
+    "genres": [
+      "General Epistle"
+    ]
   },
   {
     "name": "2 John",
     "testament": "NT",
     "abbreviation": "2 John",
-    "chapters": 22
+    "chapters": 22,
+    "genres": [
+      "General Epistle"
+    ]
   }
 ]

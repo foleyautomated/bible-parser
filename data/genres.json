@@ -1,0 +1,206 @@
+{
+    "Genesis": [
+        "Law",
+        "History"
+    ],
+    "Exodus": [
+        "Law",
+        "History"
+    ],
+    "Leviticus": [
+        "Law"
+    ],
+    "Numbers": [
+        "Law"
+    ],
+    "Deuteronomy": [
+        "Law"
+    ],
+    "Joshua": [
+        "History"
+    ],
+    "Judges": [
+        "History"
+    ],
+    "Ruth": [
+        "History"
+    ],
+    "1 Samuel": [
+        "History"
+    ],
+    "2 Samuel": [
+        "History"
+    ],
+    "1 Kings": [
+        "History"
+    ],
+    "2 Kings": [
+        "History"
+    ],
+    "1 Chronicles": [
+        "History"
+    ],
+    "2 Chronicles": [
+        "History"
+    ],
+    "Ezra": [
+        "History"
+    ],
+    "Nehemiah": [
+        "History"
+    ],
+    "Esther": [
+        "History"
+    ],
+    "Job": [
+        "Wisdom"
+    ],
+    "Psalms": [
+        "Wisdom",
+        "Poetry"
+    ],
+    "Proverbs": [
+        "Wisdom",
+        "Poetry"
+    ],
+    "Ecclesiastes": [
+        "Wisdom",
+        "Poetry"
+    ],
+    "Song of Solomon": [
+        "Wisdom",
+        "Poetry"
+    ],
+    "Isaiah": [
+        "Prophecy"
+    ],
+    "Jeremiah": [
+        "Prophecy"
+    ],
+    "Lamentations": [
+        "Prophecy"
+    ],
+    "Ezekiel": [
+        "Prophecy"
+    ],
+    "Daniel": [
+        "Prophecy"
+    ],
+    "Hosea": [
+        "Prophecy"
+    ],
+    "Joel": [
+        "Prophecy"
+    ],
+    "Amos": [
+        "Prophecy"
+    ],
+    "Obadiah": [
+        "Prophecy"
+    ],
+    "Jonah": [
+        "Prophecy"
+    ],
+    "Micah": [
+        "Prophecy"
+    ],
+    "Nahum": [
+        "Prophecy"
+    ],
+    "Habakkuk": [
+        "Prophecy"
+    ],
+    "Zephaniah": [
+        "Prophecy"
+    ],
+    "Haggai": [
+        "Prophecy"
+    ],
+    "Zechariah": [
+        "Prophecy"
+    ],
+    "Malachi": [
+        "Prophecy"
+    ],
+    "Matthew": [
+        "Gospel"
+    ],
+    "Mark": [
+        "Gospel"
+    ],
+    "Luke": [
+        "Gospel"
+    ],
+    "John": [
+        "Gospel"
+    ],
+    "Acts": [
+        "History"
+    ],
+    "Romans": [
+        "Epistle"
+    ],
+    "1 Corinthians": [
+        "Epistle"
+    ],
+    "2 Corinthians": [
+        "Epistle"
+    ],
+    "Galatians": [
+        "Epistle"
+    ],
+    "Ephesians": [
+        "Epistle"
+    ],
+    "Philippians": [
+        "Epistle"
+    ],
+    "Colossians": [
+        "Epistle"
+    ],
+    "1 Thessalonians": [
+        "Epistle"
+    ],
+    "2 Thessalonians": [
+        "Epistle"
+    ],
+    "1 Timothy": [
+        "Pastoral Epistle"
+    ],
+    "2 Timothy": [
+        "Pastoral Epistle"
+    ],
+    "Titus": [
+        "Pastoral Epistle"
+    ],
+    "Philemon": [
+        "Pastoral Epistle"
+    ],
+    "Hebrews": [
+        "General Epistle"
+    ],
+    "James": [
+        "General Epistle"
+    ],
+    "1 Peter": [
+        "General Epistle"
+    ],
+    "2 Peter": [
+        "General Epistle"
+    ],
+    "1 John": [
+        "General Epistle"
+    ],
+    "2 John": [
+        "General Epistle"
+    ],
+    "3 John": [
+        "General Epistle"
+    ],
+    "Jude": [
+        "General Epistle"
+    ],
+    "Revelation": [
+        "Prophecy"
+    ]
+}
